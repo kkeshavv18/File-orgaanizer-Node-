@@ -1,0 +1,14 @@
+{
+  "name": "3.file-system-organizer-project-node",
+  "version": "1.0.0",
+  "main": "1-main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "keshav": "1-main.js"
+  }
+}
